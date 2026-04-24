@@ -57,10 +57,6 @@ This project demonstrates how exploratory data analysis and visualization help u
 
 ---
 
-## 📁 Files Included
 
-- `iris_analysis.ipynb` → Main Jupyter Notebook
-- `README.md` → Project documentation
-- `images/` → Graph screenshots (optional)
 
 
